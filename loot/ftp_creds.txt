@@ -1,0 +1,13 @@
+admin:admin
+admin:password
+admin:123456
+root:root
+root:toor
+root:password
+test:test
+user:user
+guest:guest
+ftp:ftp
+pclinuxos:pclinuxos
+healthcare:healthcare
+opfor:opfor
